@@ -27,8 +27,8 @@ Este repositorio contiene una guía de estudio detallada basada en el Volumen 3 
 ## Avances
 - [x] Definición de objetivos y estructura de la guía.
 - [x] Redacción de la sección de prerrequisitos.
-- [x] Desarrollo de la introducción y objetivos.
-- [x] Creación de secciones sobre la ecuación de Schrödinger.
+- [] Desarrollo de la introducción y objetivos.
+- [] Creación de secciones sobre la ecuación de Schrödinger.
 - [ ] Desarrollo de problemas y ejercicios complementarios.
 - [ ] Expansión de ejemplos de aplicaciones tecnológicas.
 - [ ] Revisión final y corrección de estilo.
